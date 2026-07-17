@@ -489,13 +489,14 @@ footer strong {
 
   .nav-links .nav-cta {
     display: block;
-    margin: 18px;
+    width: auto;
+    margin: 18px 24px;
     text-align: center;
     border-radius: 4px;
   }
 
   .hero {
-    padding: 4rem 1.5rem;
+    padding: 3rem 1.5rem;
     min-height: auto;
   }
 
@@ -514,6 +515,10 @@ footer strong {
   .stat-card {
     width: 100%;
     min-width: unset;
+  }
+
+  .services-grid {
+    grid-template-columns: 1fr;
   }
 
   .service-card img {
