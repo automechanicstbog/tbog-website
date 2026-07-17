@@ -51,16 +51,17 @@ tbog-website/
     - service-general.png
     - service-manual-transmission.png
   - index.html
+  - main.js
   - style.css
 
 # Workflow
 
-- [ ] Introduce project to AI assitant.
-- [ ] Determine structure, look, and basic features of website.
-- [ ] Develop html.
-- [ ] Develop css.
-- [ ] Develop js.
-- [ ] Optimize for mobile screens.
+- [x] Introduce project to AI assitant.
+- [x] Determine structure, look, and basic features of website.
+- [x] Develop html.
+- [x] Develop css.
+- [x] Develop js.
+- [x] Optimize for mobile screens.
 - [ ] Declare project as completed.
 
 # AI Instructions

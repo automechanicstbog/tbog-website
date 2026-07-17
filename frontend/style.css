@@ -414,6 +414,16 @@ footer strong {
   font-size: 14px;
 }
 
+.footer-credit {
+  color: var(--primary-green);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.footer-credit:hover {
+  color: var(--green-hover);
+}
+
 /* ==========================================================================
    MOBILE DISPLAY
    ========================================================================== */
